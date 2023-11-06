@@ -12,7 +12,7 @@ public class HelloServlet extends HttpServlet {
         PrintWriter out = response.getWriter();
         out.println("<HTML>");
         out.println("<HEAD>");
-        out.println("<TITLE>Hello Servlet</TITLE>");
+        out.println("<TITLE>Hello Shyni</TITLE>");
         out.println("</HEAD>");
         out.println("<BODY>");
         out.println("Hello Servlet");
